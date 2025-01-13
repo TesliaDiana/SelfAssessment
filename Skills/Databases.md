@@ -24,7 +24,7 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing h
   - Primary keys
   - Foreign keys
   - Transactions

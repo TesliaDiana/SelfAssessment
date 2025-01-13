@@ -6,32 +6,32 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules h
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`  u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection h
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments u
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch h
 - Internal API
   - Streams API
   - Web Streams API
@@ -67,10 +67,10 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S) h
+  - TCP/SSL h
+  - UDP h
+  - TLS h
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
@@ -91,15 +91,15 @@
 - Technique and tools
   - Native test runner
   - Logging
-  - Application configuring
-  - Testing
+  - Application configuring h
+  - Testing u
   - CI/CD
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console u
   - Inspector
 - Data access
   - Data access layer
@@ -110,18 +110,18 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` h
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message` h
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions h
   - Heap dump
-  - Debugging tools
+  - Debugging tools u
   - Flame graph
-  - Memory leaks
+  - Memory leaks h
   - Resource leaks
   - Data race
 - Integrations and bindings

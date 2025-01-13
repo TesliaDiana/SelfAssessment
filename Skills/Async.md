@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop 
+  - `try..catch` h
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks u
   - Callback-last-error-first
   - Thenable
   - Promise
@@ -68,12 +68,12 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell h
   - Promise hell
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON streaming serialization
+  - JSON streaming serialization h
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

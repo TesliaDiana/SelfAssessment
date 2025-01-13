@@ -19,7 +19,7 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools h
   - .NET CLI
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
@@ -37,14 +37,14 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support h
   - WebSockets for real-time communication
-  - TCP/UDP networking
+  - TCP/UDP networking h
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Serialization and deserialization (JSON, XML) h
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
@@ -103,10 +103,10 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals u
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
-  - `C++/CLI` syntax and usage
+  - `C++/CLI` syntax and usage u
   - Accessing .NET Framework classes in `C++`
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity h
 - Web development
   - ASP.NET Core
   - Blazor

@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value k
   - Identifier
-  - Variable
-  - Constant
+  - Variable k
+  - Constant k
   - Scalar
   - Literal
-  - Expression
+  - Expression k
   - Heap
-  - Function
+  - Function k
   - Procedure
   - Method
   - Class
@@ -50,8 +50,8 @@
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions k
+  - Loops k
   - Assignment
   - Regular expression
   - Interface
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array h
   - Structure
   - Record
   - Enum
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler

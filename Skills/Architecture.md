@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Modularity h
+  - Modularity: 👂 heard
   - Components
-  - Directories h
+  - Directories: 👂 heard
   - GRASP
   - SOLID
   - GoF patterns
@@ -19,9 +19,9 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality h
-  - Availability h
-  - Flexibility h
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -32,8 +32,8 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI) h
-  - Clean architecture h
+  - Dependency injection (DI): 👂 heard
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -48,7 +48,7 @@
   - UML
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems h
+  - Distributed systems: 👂 heard
   - High-intensive computing
   - Load balancing
   - Gateways
